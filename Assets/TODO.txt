@@ -1,0 +1,9 @@
+
+DONE- Movimiento basico izq der
+	DONE - Detección de suelo
+	DONE - Angulo de rampa
+- Salto
+	-Salto basico
+	DONE -Control de velocidad de caida
+		-Velocidad de caida maxima
+	-Control de tiempo de salto
